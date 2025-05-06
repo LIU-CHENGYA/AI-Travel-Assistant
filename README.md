@@ -17,8 +17,9 @@
 
 ##  專案結構
 
-- `AI_travel_assistant.ipynb`：主程式與示範
 - `README.md`：專案說明
+- `旅遊小助手.ipynb：主程式與示範
+  
 
 
 ##  Demo 示範
